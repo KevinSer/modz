@@ -1,0 +1,60 @@
+{
+
+	"author": "KevinSer",
+	"id": "KevinSer-10001",
+	"introduce": "I like Sandbox game",
+	"modzList": [{
+		"modz": "https://github.com/KevinSer/modz/raw/master/com.modz.craft.z/com.modz.craft.z.modz",
+		"readme": "https://github.com/KevinSer/modz/raw/master/com.modz.craft.z/README.md",
+		"desc": "Invincible,SecKill,Not thirsty,Not hungry,Full level,infinity Energy,Good!!!",
+		"name": "Live on!",
+		"pkgName": "com.modz.craft.z",
+		"versionCode": 8,
+		"versionName": "1.0.8",
+		"target": "zombie.survival.craft.z",
+		"support": "12",
+		"gameName": "Last Day on Earth",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 8,
+			"versionName": "1.0.8",
+			"whatsNew": "support game version 1.8.5(372)"
+		}],
+		"screenshotUrl": [
+			"https://github.com/KevinSer/modz/raw/master/com.modz.craft.z/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"https://play.google.com/store/apps/details?id=zombie.survival.craft.z",
+			"https://apkpure.com/last-day-on-earth/zombie.survival.craft.z"
+		]
+	}, {
+		"modz": "https://github.com/KevinSer/modz/raw/master/com.modz.gtasa/com.modz.gtasa.modz",
+		"readme": "https://github.com/KevinSer/modz/raw/master/com.modz.gtasa/README.md",
+		"desc": "Weapons and many more",
+		"name": "Hacker!",
+		"pkgName": "com.modz.gtasa",
+		"versionCode": 8,
+		"versionName": "1.0.8",
+		"target": "com.rockstargames.gtasa",
+		"support": "12",
+		"gameName": "GTA:San Andreas",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 8,
+			"versionName": "1.0.8",
+			"whatsNew": "support game version 0.12(12)"
+		}],
+		"screenshotUrl": [
+			"https://github.com/KevinSer/modz/raw/master/com.modz.gtasa/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"https://play.google.com/store/apps/details?id=com.rockstargames.gtasa"
+		]
+	}]
+}
