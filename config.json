@@ -9,15 +9,15 @@
 		"desc": "Invincible,SecKill,Not thirsty,Not hungry,Full level,infinity Energy,Good!!!",
 		"name": "Live on!",
 		"pkgName": "com.modz.craft.z",
-		"versionCode": 8,
-		"versionName": "1.0.8",
+		"versionCode": 73,
+		"versionName": "1.0.73",
 		"target": "zombie.survival.craft.z",
 		"support": "372",
 		"gameName": "Last Day on Earth",
 		"iconUrl": "",
 		"changelog": [{
-			"versionCode": 8,
-			"versionName": "1.0.8",
+			"versionCode": 73,
+			"versionName": "1.0.73",
 			"whatsNew": "support game version 1.8.5(372)"
 		}],
 		"screenshotUrl": [
