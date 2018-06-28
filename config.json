@@ -1,6 +1,6 @@
 {
 
-	"author": "KevinSer",
+    "author": "KevinSer",
 	"id": "KevinSer-10001",
 	"introduce": "I like Sandbox game",
 	"modzList": [{
@@ -55,6 +55,33 @@
 		],
 		"gameDownloadUrl": [
 			"https://play.google.com/store/apps/details?id=com.rockstargames.gtasa"
+		]
+	}, {
+    	"modz": "https://github.com/KevinSer/modz/raw/master/com.mod.TerrariaPaid/com.modz.TerrariaPaid.modz",
+		"readme": "https://github.com/KevinSer/modz/raw/master/com.modz.TerrariaPaid/README.md",
+		"desc": "Invincible,Unlimited MP,Safe Zone,add all wing and Unlimited flying,all festivals,all event and so on.so cool!",
+		"name": "god like",
+		"pkgName": "com.modz.TerrariaPaid",
+		"versionCode": 91,
+		"versionName": "1.0.91",
+		"target": "com.and.games505.TerrariaPaid",
+		"support": "*",
+		"gameName": "Terraria",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 91,
+			"versionName": "1.0.91",
+			"whatsNew": "support game version (*)"
+		}],
+		"screenshotUrl": [
+			"https://github.com/KevinSer/modz/raw/master/com.modz.TerrariaPaid/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"http://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid",
+            "https://my.pcloud.com/publink/show?code=XZRW8f7ZMi5seBHLsTza94c9tVPl65awGLF7"
 		]
 	}]
 }
