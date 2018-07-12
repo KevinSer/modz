@@ -62,15 +62,15 @@
 		"desc": "Invincible,Unlimited MP,Safe Zone,add all wing and Unlimited flying,all festivals,all event and so on.so cool!",
 		"name": "god like",
 		"pkgName": "com.modz.TerrariaPaid",
-		"versionCode": 91,
-		"versionName": "1.0.91",
+		"versionCode": 94,
+		"versionName": "1.0.94",
 		"target": "com.and.games505.TerrariaPaid",
 		"support": "*",
 		"gameName": "Terraria",
 		"iconUrl": "",
 		"changelog": [{
-			"versionCode": 91,
-			"versionName": "1.0.91",
+			"versionCode": 94,
+			"versionName": "1.0.94",
 			"whatsNew": "support game version (*)"
 		}],
 		"screenshotUrl": [
